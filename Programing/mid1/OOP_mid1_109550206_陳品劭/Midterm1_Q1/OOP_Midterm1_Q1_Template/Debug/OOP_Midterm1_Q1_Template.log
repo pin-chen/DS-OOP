@@ -1,0 +1,22 @@
+﻿已經開始建置於 2021/4/23 上午 05:42:32。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\user\Downloads\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q1\OOP_Midterm1_Q1_Template\OOP_Midterm1_Q1_Template.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\OOP_Midterm1_Q1_Template.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Deque.cpp
+         Deque.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Downloads\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q1\Debug\OOP_Midterm1_Q1_Template.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OOP_Midterm1_Q1_Template.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Downloads\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q1\Debug\OOP_Midterm1_Q1_Template.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Downloads\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q1\Debug\OOP_Midterm1_Q1_Template.lib" /MACHINE:X86 Debug\Deque.obj
+         Debug\main.obj
+         LINK : 最後的累加連結找不到或未建置 C:\Users\user\Downloads\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q1\Debug\OOP_Midterm1_Q1_Template.exe，正在執行完整連結
+         OOP_Midterm1_Q1_Template.vcxproj -> C:\Users\user\Downloads\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q1\Debug\OOP_Midterm1_Q1_Template.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\user\Downloads\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q1\Debug\OOP_Midterm1_Q1_Template.exe;#1" /manifest Debug\OOP_Midterm1_Q1_Template.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\OOP_Midterm1_Q1_Template.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\OOP_Midterm1_Q1_Template.lastbuildstate"。
+     1>專案 "C:\Users\user\Downloads\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q1\OOP_Midterm1_Q1_Template\OOP_Midterm1_Q1_Template.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.93

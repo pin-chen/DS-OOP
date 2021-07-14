@@ -1,0 +1,17 @@
+﻿已經開始建置於 2021/5/14 上午 12:13:46。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q2\OOP_Midterm1_Q2_Template\OOP_Midterm1_Q2_Template.vcxproj"。
+     1>InitializeBuildStatus:
+         正在變更時間戳記 "Debug\OOP_Midterm1_Q2_Template.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+       Link:
+         所有輸出都是最新的。
+         OOP_Midterm1_Q2_Template.vcxproj -> C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q2\Debug\OOP_Midterm1_Q2_Template.exe
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\OOP_Midterm1_Q2_Template.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\OOP_Midterm1_Q2_Template.lastbuildstate"。
+     1>專案 "C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\OOP_mid1_109550206_陳品劭\OOP_mid1_109550206_陳品劭\Midterm1_Q2\OOP_Midterm1_Q2_Template\OOP_Midterm1_Q2_Template.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.05

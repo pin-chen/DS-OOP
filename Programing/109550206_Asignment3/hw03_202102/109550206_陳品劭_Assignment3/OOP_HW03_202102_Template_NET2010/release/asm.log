@@ -1,0 +1,63 @@
+﻿已經開始建置於 2021/5/29 下午 08:10:48。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_HW3_0529\hw03_202102\109550206_陳品劭_Assignment3\OOP_HW03_202102_Template_NET2010\asm.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Release\SelfMotivatedSystem.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\inc /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048.cpp
+         mySystem_2048.cpp
+     1>C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_HW3_0529\hw03_202102\109550206_陳品劭_Assignment3\OOP_HW03_202102_Template_NET2010\inc\GL/gl.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_HW3_0529\hw03_202102\109550206_陳品劭_Assignment3\OOP_HW03_202102_Template_NET2010\inc\GL/gl.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_HW3_0529\hw03_202102\109550206_陳品劭_Assignment3\OOP_HW03_202102_Template_NET2010\Release\SelfMotivatedSystem.exe) 與 Linker 的 OutputFile 屬性值 (C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_HW3_0529\hw03_202102\109550206_陳品劭_Assignment3\OOP_HW03_202102_Template_NET2010\bin\Release\SelfMotivatedSystem.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\bin\Release\SelfMotivatedSystem.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:.\lib /LIBPATH:.\lib\IL freeglut.lib opengl32.lib glew32.lib glew32s.lib ILUT.lib devIL.lib ILU.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\SelfMotivatedSystem.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_HW3_0529\hw03_202102\109550206_陳品劭_Assignment3\OOP_HW03_202102_Template_NET2010\Release\SelfMotivatedSystem.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_HW3_0529\hw03_202102\109550206_陳品劭_Assignment3\OOP_HW03_202102_Template_NET2010\Release\SelfMotivatedSystem.lib" /MACHINE:X86 Release\myBasicTools.obj
+         Release\mySystem_2048.obj
+         Release\mySystem_2048_draw.obj
+         Release\mySystem_GraphSystem.obj
+         Release\mySystem_GraphSystem_draw.obj
+         Release\mySystem_ImageEditor.obj
+         Release\mySystem_ImageEditor_draw.obj
+         Release\basic_app.obj
+         Release\main.obj
+         Release\mySystemApp.obj
+         Release\mySystemApp_draw.obj
+         Release\mySystemApp_HandleEvents.obj
+         Release\camera.obj
+         Release\opengl_stuff.obj
+         Release\painter_draw.obj
+         Release\openGLapp.obj
+         Release\openGLapp.events.obj
+         Release\openGLapp_draw.obj
+         Release\openGLapp_init.obj
+         Release\openGLapp_update.obj
+         Release\basic_tools.obj
+         Release\grid2D.obj
+         Release\provider.obj
+         Release\vector3d.obj
+         Release\fileReader.obj
+         Release\imageReader.obj
+         Release\BG_grid2D.obj
+         Release\boardGame.obj
+         Release\painter.obj
+         Release\boardGameApp.obj
+         Release\freeCanvas2D.obj
+         Release\lattice_manager.obj
+         Release\paintingSystem.obj
+         Release\paintingSystemApp.obj
+         Release\paintingSystemApp_draw.obj
+         Release\paintingSystemApp_HandleEvents.obj
+         Release\texture.obj
+         Release\textureManager.obj
+         Release\textureManager_read.obj
+         正在產生程式碼
+         已完成程式碼產生
+         asm.vcxproj -> C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_HW3_0529\hw03_202102\109550206_陳品劭_Assignment3\OOP_HW03_202102_Template_NET2010\Release\SelfMotivatedSystem.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\bin\Release\SelfMotivatedSystem.exe;#1" /manifest Release\SelfMotivatedSystem.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Release\SelfMotivatedSystem.unsuccessfulbuild"。
+         正在變更時間戳記 "Release\SelfMotivatedSystem.lastbuildstate"。
+     1>專案 "C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_HW3_0529\hw03_202102\109550206_陳品劭_Assignment3\OOP_HW03_202102_Template_NET2010\asm.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.69

@@ -1,0 +1,21 @@
+5
+
+5
+6
+e 1 e 2 e 3 e 4 e 5 p
+
+6
+10
+e 7 e 9 e 11 p d d e 13 e 15 d p
+
+4
+12
+e 1 e 2 e 3 a b p d d e 4 a b p
+
+4
+10
+e 7 e 1 d e 3 e 5 e 7 e 9 r s p
+
+3
+16
+e 1 d d s e 2 e 3 a b p d d d r a b p
