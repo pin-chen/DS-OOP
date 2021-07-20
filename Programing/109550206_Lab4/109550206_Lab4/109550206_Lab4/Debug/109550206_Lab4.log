@@ -1,0 +1,17 @@
+﻿已經開始建置於 2021/3/25 下午 06:32:55。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_Lab4\109550206_Lab4\109550206_Lab4\109550206_Lab4.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\109550206_Lab4.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+       Link:
+         所有輸出都是最新的。
+         109550206_Lab4.vcxproj -> C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_Lab4\109550206_Lab4\Debug\109550206_Lab4.exe
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\109550206_Lab4.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\109550206_Lab4.lastbuildstate"。
+     1>專案 "C:\Users\user\Dropbox\交通大學\資料結構與物件導向程式設計\109550206_Lab4\109550206_Lab4\109550206_Lab4\109550206_Lab4.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.06
